@@ -1,0 +1,29 @@
+/* styles/post.css */
+.post-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .content-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .content-container .date {
+    font-size: 1rem;
+    color: #888;
+    margin-bottom: 20px;
+  }
+  
+  .post-content {
+    font-size: 1.125rem;
+    line-height: 1.8;
+  }
+  
