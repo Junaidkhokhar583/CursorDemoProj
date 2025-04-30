@@ -13,8 +13,6 @@ import BaseFooter from "../components/BaseFooter";
 import GeneralFooter from "../components/GeneralFooter";
 
 export default function HBOT() {
-  const isInView = useInView(0.1);
-
   const points = [
     <span>
       <b>Anti-aging</b>: Rejuvenate Your Skin and Reduce Signs of Aging.
