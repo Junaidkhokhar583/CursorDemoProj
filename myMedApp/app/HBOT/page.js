@@ -1,6 +1,6 @@
 "use client";
 
-import { useInView } from "@/lib/intersection-observer";
+
 import HeroOverlay from "../components/HeroOverlay";
 
 import Divider from "../components/Divider";
